@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+
+}
+
+li {
+    display: inline;
+    padding: 2px;
+}
+
+ul li a {
+    margin-left: 90px;
+    text-decoration: none;
+    font-size: xx-large;
+    color: white;
+    font-family: 'Pacifico', cursive;
+
+}
+
+a:hover {
+    color: aqua;
+    text-decoration: underline;
+}
+
+.nav {
+
+    height: 100px;
+    background-color: #8a2be2;
+}
+
+h1 {
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    margin-top: 30px;
+    color: aqua;
+}
+
+.p {
+    color: #adff2f;
+}
+
+.para {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight:bolder ;
+    color: #008080;
+}
+
+.rate {
+    color: rgb(209, 57, 108);
+}
+
+.para2 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #008080;
+    font-family: 'Stylish', sans-serif;
+}
+
+.para3 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #008080;
+    font-family: 'Agdasima', sans-serif;
+    font-size: 2rem;
+}
+
+.para4 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #008080;
+    font-family: 'Bacasime Antique', serif;
+    font-size: 2rem;
+}
+
+.para5 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #008080;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+}
